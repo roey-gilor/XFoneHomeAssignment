@@ -1,0 +1,12 @@
+C:\projects\XfoneHomeAssignment\DAO\bin\Debug\net5.0\DAO.deps.json
+C:\projects\XfoneHomeAssignment\DAO\bin\Debug\net5.0\DAO.dll
+C:\projects\XfoneHomeAssignment\DAO\bin\Debug\net5.0\ref\DAO.dll
+C:\projects\XfoneHomeAssignment\DAO\bin\Debug\net5.0\DAO.pdb
+C:\projects\XfoneHomeAssignment\DAO\obj\Debug\net5.0\DAO.csprojAssemblyReference.cache
+C:\projects\XfoneHomeAssignment\DAO\obj\Debug\net5.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\XfoneHomeAssignment\DAO\obj\Debug\net5.0\DAO.AssemblyInfoInputs.cache
+C:\projects\XfoneHomeAssignment\DAO\obj\Debug\net5.0\DAO.AssemblyInfo.cs
+C:\projects\XfoneHomeAssignment\DAO\obj\Debug\net5.0\DAO.csproj.CoreCompileInputs.cache
+C:\projects\XfoneHomeAssignment\DAO\obj\Debug\net5.0\DAO.dll
+C:\projects\XfoneHomeAssignment\DAO\obj\Debug\net5.0\ref\DAO.dll
+C:\projects\XfoneHomeAssignment\DAO\obj\Debug\net5.0\DAO.pdb

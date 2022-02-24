@@ -1,0 +1,15 @@
+C:\projects\XfoneHomeAssignment\BusinessLogic\bin\Debug\net5.0\BusinessLogic.deps.json
+C:\projects\XfoneHomeAssignment\BusinessLogic\bin\Debug\net5.0\BusinessLogic.dll
+C:\projects\XfoneHomeAssignment\BusinessLogic\bin\Debug\net5.0\ref\BusinessLogic.dll
+C:\projects\XfoneHomeAssignment\BusinessLogic\bin\Debug\net5.0\BusinessLogic.pdb
+C:\projects\XfoneHomeAssignment\BusinessLogic\bin\Debug\net5.0\DAO.dll
+C:\projects\XfoneHomeAssignment\BusinessLogic\bin\Debug\net5.0\DAO.pdb
+C:\projects\XfoneHomeAssignment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csprojAssemblyReference.cache
+C:\projects\XfoneHomeAssignment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\XfoneHomeAssignment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\projects\XfoneHomeAssignment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfo.cs
+C:\projects\XfoneHomeAssignment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\projects\XfoneHomeAssignment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CopyComplete
+C:\projects\XfoneHomeAssignment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.dll
+C:\projects\XfoneHomeAssignment\BusinessLogic\obj\Debug\net5.0\ref\BusinessLogic.dll
+C:\projects\XfoneHomeAssignment\BusinessLogic\obj\Debug\net5.0\BusinessLogic.pdb

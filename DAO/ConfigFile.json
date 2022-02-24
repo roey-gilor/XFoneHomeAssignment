@@ -1,0 +1,5 @@
+{
+  "Website": {
+    "ConnectionString": "Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=BooksStore;Integrated Security=SSPI;"
+  }
+}
